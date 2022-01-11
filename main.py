@@ -103,6 +103,7 @@ for i in range(0, l_row_t):
         l=i
         j=j+1
 
+
         
 plt.figure('DataAnalysis')
 plt.boxplot([eyesopen, eyesclosed], sym = 'ko', whis = 1.5)
