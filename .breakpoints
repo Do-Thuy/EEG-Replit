@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Frequencies.csv": [
+      {
+        "id": "bde90d66-5cbc-4fac-a061-2fd062e5cbb9",
+        "line": 27,
+        "version": 1,
+        "index": 229
+      }
+    ],
+    "main.py": [
+      {
+        "id": "48decb28-c0b7-4f3a-9832-1bc5be380f8b",
+        "line": 18,
+        "version": 316,
+        "index": 260
+      }
+    ]
+  }
+}
